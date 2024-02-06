@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vedanta
 - 👀 I’m interested in learning and exploring new things and finding a field that I am compatible with.
-- 🌱 I’m currently learning web development and coding in cpp.
+- 🌱 I’m currently learning and practicing coding.
 - 💞️ I’m looking to collaborate on anything that I can make a big contribution in by taking my time learning and then executing it for the project.
 - 📫 How to reach me email- vedantasharan8844@gmail.com
 
